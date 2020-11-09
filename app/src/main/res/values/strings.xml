@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">YogaEasy Test</string>
+    <string name="no_data">No data found...</string>
+    <string name="details_screen">Details screen</string>
+</resources>
