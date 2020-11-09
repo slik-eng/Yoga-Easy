@@ -1,6 +1,7 @@
 # Android test project for Yoga Easy
 
 This project build based on MVRX strucutre [More info](https://github.com/airbnb/MvRx).
+
 The purpose of this project is to display list of data available on this [link](https://www.yogaeasy.de/api/v1/products?page=0).
 
 ----------
